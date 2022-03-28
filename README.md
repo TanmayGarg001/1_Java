@@ -1,9 +1,12 @@
 # JavaInit
-All of the basics and core of Java Udemy Course,YT,Collections Framework etc.
+All of the basics and core of Java                             
+Sorce: Udemy Course,YT,Collections Framework etc.                                   
 Includes    
 >Basics   
->Core Java    
+>Core Java 
+>Control Flow Statements & Conditional Statements              
 >OOPS    
->Frameworks      
+>Collection Framework      
 >Lambda Expressions     
->Concurrency and Multi-Threading    
+>Concurrency               
+>Multi-Threading               
