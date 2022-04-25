@@ -16,7 +16,8 @@ public class Main {
         //In Competitive programming limit of array declared locally size is around of order 10^5 depends on the machine and in general in CPP too.
         //We can do it globally but its constant as value can't be tempered with.
 
-        //because this stores in a stack and limit of a stack is 8mbs generally depends on hardware and OS
+
+        //coz this stores in a stack and limit of a stack is 8mbs generally depends on hardware and OS
         //on the other hand when we do it globally there is no such limit and it stored in a data segment.
 
         double d1 = 1e24;
