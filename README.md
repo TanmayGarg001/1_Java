@@ -1,6 +1,8 @@
 # JavaInit
+------------------------------------------------                    
 All of the basics and core of Java                             
-Sorce: Udemy Course,YT,Collections Framework etc.                                   
+Sorce: Udemy Course,YT,Collections Framework etc.                      
+------------------------------------------------                   
 Includes    
 >Basics   
 >Core Java 
